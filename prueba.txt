@@ -1,1 +1,2 @@
 Paso 4: crear un fichero de texto en la carpeta clonada del respositorio
+Hago un cambio del fichero pruebas.txt en la rama master
